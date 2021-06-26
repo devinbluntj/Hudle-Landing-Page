@@ -38,7 +38,7 @@ I will learn more about Mobile-first workflow and CSS GRID.
 
 ## Author
 
-- Website - [Dev Ace](https://https://vercel.com/devinbluntj)
+- Website - [Dev Ace](https://vercel.com/devinbluntj)
 - Frontend Mentor - [@devinbluntj](https://www.frontendmentor.io/profile/devinbluntj)
 - Twitter - [@dev_ace_is_cold](https://www.twitter.com/dev_ace_is_cold)
 
